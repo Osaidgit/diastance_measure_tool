@@ -1,5 +1,3 @@
-
-````markdown
 # 📏 Distance Measure Plugin for Godot 4
 
 A lightweight and easy-to-use Godot 4 editor plugin that lets you measure the distance between two selected 3D objects directly inside the editor.
