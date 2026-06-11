@@ -4,7 +4,9 @@
 
 A lightweight and easy-to-use Godot 4 editor plugin that lets you measure the distance between two selected 3D objects directly inside the editor.
 
-<video src="video.mp4" width="100%" controls muted></video>
+
+
+
 
 ## ✨ Features
 
