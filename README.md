@@ -1,9 +1,9 @@
-<img src="https://github.com/Osaidgit/diastance_measure_tool/blob/main/icon.png alt="Distance Measure Icon" width="32" height="32">
+<img src="icon.png" alt="Distance Measure Icon" width="32" height="32">
 # Distance Measure Plugin for Godot 4
 
 A lightweight and easy-to-use Godot 4 editor plugin that lets you measure the distance between two selected 3D objects directly inside the editor.
 
-<video src="videos/video.mp4" width="100%" controls muted></video>
+<video src="video.mp4" width="100%" controls muted></video>
 
 ## ✨ Features
 
@@ -58,9 +58,9 @@ Add screenshots or GIFs here:
 
 ## 📸 Screenshots
 
-![Distance Measure Screenshot 1](images/screenshot01.png)
+![Distance Measure Screenshot 1](screenshot01.png)
 
-![Distance Measure Screenshot 2](images/screenshot02.png)
+![Distance Measure Screenshot 2](screenshot02.png)
 
 
 ## 🤝 Contributing
